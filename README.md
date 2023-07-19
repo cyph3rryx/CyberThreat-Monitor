@@ -1,10 +1,10 @@
-# SIEM Honeypot
+# CyberThreat Monitor using Honeypot and Microsoft Azure
 
-SIEM Lab with Microsoft Azure is a comprehensive cyber threat monitoring solution built on Azure Sentinel, providing real-time visibility into global cyber threats. By leveraging a honeypot environment and advanced visualization techniques, SIEM Lab empowers organizations to proactively detect, analyze, and respond to emerging cyber risks.
+CyberThreat Monitor (SIEM Lab) with Microsoft Azure is a comprehensive cyber threat monitoring solution built on Azure Sentinel, providing real-time visibility into global cyber threats. By leveraging a honeypot environment and advanced visualization techniques, this SIEM Lab empowers organizations to proactively detect, analyze, and respond to emerging cyber risks.
 
 Today's organizations face an escalating number of cyber threats, leaving them vulnerable to data breaches and operational disruptions. Traditional cybersecurity measures often fall short in detecting and responding to emerging threats, creating a critical need for an advanced threat monitoring system.
 
-SIEM Lab bridges this gap by offering real-time monitoring and mapping of global cyber threats, enabling organizations to enhance their situational awareness, strategic decision-making, and proactive defense strategies.
+This SIEM Lab bridges this gap by offering real-time monitoring and mapping of global cyber threats, enabling organizations to enhance their situational awareness, strategic decision-making, and proactive defense strategies.
 
 ## Features and Benefits
 
