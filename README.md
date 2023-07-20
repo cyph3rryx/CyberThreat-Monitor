@@ -31,9 +31,3 @@ This SIEM Lab bridges this gap by offering real-time monitoring and mapping of g
 ## Working Demo 
 
 **Demo Link: https://youtu.be/nlSiQgUDDZU**
-
-## Resources
-
-- [Azure Documentation](https://docs.microsoft.com/azure/)
-- [Azure Sentinel Documentation](https://docs.microsoft.com/azure/sentinel/)
-- [IPGeolocation.io](https://ipgeolocation.io/)
