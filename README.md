@@ -6,6 +6,10 @@ Today's organizations face an escalating number of cyber threats, leaving them v
 
 This SIEM Lab bridges this gap by offering real-time monitoring and mapping of global cyber threats, enabling organizations to enhance their situational awareness, strategic decision-making, and proactive defense strategies.
 
+## Working Demo 
+
+**Demo Link: https://youtu.be/nlSiQgUDDZU**
+
 ## Features and Benefits
 
 - **Real-Time Global Threat Visibility**: Monitor and analyze cyber attacks in real-time, providing organizations with a comprehensive view of the evolving threat landscape.
@@ -27,10 +31,6 @@ This SIEM Lab bridges this gap by offering real-time monitoring and mapping of g
 - **Microsoft Defender**: Integrated with SIEM Lab to enhance security measures and capture relevant event logs.
 
 - **Log Analytics Workspace**: Azure service for log ingestion, storage, and querying.
-
-## Working Demo 
-
-**Demo Link: https://youtu.be/nlSiQgUDDZU**
 
 ## Resources
 - [Azure Documentation](https://docs.microsoft.com/azure/)
